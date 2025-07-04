@@ -1,2 +1,2 @@
 # Image-Denoising-tensorflow
-Image Denoising by tensorflow
+Image Denoising using Auto-Encoder by tensorflow
